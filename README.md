@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Display a Heroes List
+In this page, you'll expand the Tour of Heroes app to display a list of heroes, and allow users to select a hero and display the hero's details.
+
+## Summary
+
+1. The Tour of Heroes app displays a list of heroes in a Master/Detail view.
+2. The user can select a hero and see that hero's details.
+3. You used *ngFor to display a list.
+4. You used *ngIf to conditionally include or exclude a block of HTML.
+5. You can toggle a CSS style class with a class binding.
