@@ -26,6 +26,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
+## The Hero Editor
+
+The application now has a basic title. Next you will create a new component to display hero information and place that component in the application shell.
+
+
 
 ## Summary
 1. You used the CLI to create a second HeroesComponent.
