@@ -41,7 +41,7 @@ There are new requirements for the Tour of Heroes app:
 
 ## Summary
 1. You added the Angular router to navigate among different components.
-2. You turned the AppComponent into a navigation shell with <a> links and a <router-outlet>.
+2. You turned the AppComponent into a navigation shell with \<a\> links and a \<router-outlet\>.
 3. You configured the router in an AppRoutingModule
 4. You defined simple routes, a redirect route, and a parameterized route.
 5. You used the routerLink directive in anchor elements.
